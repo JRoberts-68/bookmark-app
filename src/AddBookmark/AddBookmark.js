@@ -86,7 +86,7 @@ class AddBookmark extends Component {
               type='text'
               name='title'
               id='title'
-              placeholder='Great website!'
+              placeholder='Something!'
               required
             />
           </div>
@@ -100,7 +100,7 @@ class AddBookmark extends Component {
               type='url'
               name='url'
               id='url'
-              placeholder='https://www.great-website.com/'
+              placeholder='https://www.something.com/'
               required
             />
           </div>

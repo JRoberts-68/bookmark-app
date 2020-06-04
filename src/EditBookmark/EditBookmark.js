@@ -142,7 +142,7 @@ class EditBookmark extends Component {
               type='text'
               name='title'
               id='title'
-              placeholder='Great website!'
+              placeholder='Something!'
               required
               value={title}
               onChange={this.handleChangeTitle}
@@ -158,7 +158,7 @@ class EditBookmark extends Component {
               type='url'
               name='url'
               id='url'
-              placeholder='https://www.great-website.com/'
+              placeholder='https://www.something.com/'
               required
               value={url}
               onChange={this.handleChangeUrl}
